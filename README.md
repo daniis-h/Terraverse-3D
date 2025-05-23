@@ -1,8 +1,5 @@
-# Creating a balanced README.md with a friendly tone and light technical details
 
-readme_content = """# TerraVerse 3D - From Video to 3D Model
-
-Welcome to **TerraVerse 3D**, our final year project that brings videos to life as interactive 3D models! 🎥➡️🧱
+Welcome to **TerraVerse 3D**, our final year project that brings videos to life as interactive 3D models!
 
 ## What is TerraVerse 3D?
 
